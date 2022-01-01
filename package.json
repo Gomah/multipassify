@@ -1,42 +1,36 @@
 {
-    "name": "multipassify",
-    "version": "1.0.2",
-    "description": "Shopify Multipass module for Node.js",
-    "homepage": "https://github.com/beaucoo/multipassify",
-    "main": "./multipassify.js",
-    "keywords": [
-        "shopify",
-        "multipass"
-    ],
-    "engines": [
-        "node"
-    ],
-    "authors": [
-        "Cory Smith, @Smixx"
-    ],
-    "contributors": [
-        {
-            "name": "BeauCoo",
-            "email": "info@beaucoo.com",
-            "url": "http://beaucoo.com/"
-        },
-        {
-            "name": "Cory Smith",
-            "email": "cory@beaucoo.com"
-        }
-    ],
-    "bugs": {
-        "url": "https://github.com/beaucoo/multipassify/issues"
+  "name": "@gomah/multipassify",
+  "version": "1.0.2",
+  "description": "Shopify Multipass module for Node.js",
+  "homepage": "https://github.com/beaucoo/multipassify",
+  "main": "./multipassify.js",
+  "keywords": [
+    "shopify",
+    "multipass"
+  ],
+  "authors": [
+    "Cory Smith, @Smixx"
+  ],
+  "contributors": [
+    {
+      "name": "BeauCoo",
+      "email": "info@beaucoo.com",
+      "url": "http://beaucoo.com/"
     },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/beaucoo/multipassify.git"
-    },
-    "dependencies": {
-        "crypto": "0.0.3"
-    },
-    "readme": "",
-    "readmeFilename": "README.md",
-    "_id": "multipassify@1.0.0",
-    "_from": "multipassify@1.0.0"
+    {
+      "name": "Cory Smith",
+      "email": "cory@beaucoo.com"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/beaucoo/multipassify/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/beaucoo/multipassify.git"
+  },
+  "readme": "",
+  "readmeFilename": "README.md",
+  "_id": "multipassify@1.0.0",
+  "_from": "multipassify@1.0.0"
 }
